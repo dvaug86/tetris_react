@@ -1,12 +1,12 @@
 .GameStats__left{
     right: 0;
-    top: 40vh;
+    top: 40vh; 
     text-align: left;
 }
 
 .GameStats__right{
     right: 0;
-    bottom: 10vh;
+    bottom: 40vh;
     text-align: left;
 }
 
